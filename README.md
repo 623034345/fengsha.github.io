@@ -9,9 +9,9 @@
 
 
 ###视频演示
-[![Watch the video](https://github.com/623034345/fengsha.github.io/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20Xʀ%20-%202019-08-30%20at%2014.15.00.png)(https://github.com/623034345/fengsha.github.io/blob/master/QQ20190830-155544-HD.mp4)
 
 
+[![视频](https://github.com/623034345/fengsha.github.io/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20Xʀ%20-%202019-08-30%20at%2014.15.00.png)](https://github.com/623034345/fengsha.github.io/blob/master/QQ20190830-155544-HD.mp4)
 
 我们欢迎使用者提出自己的意见
 
