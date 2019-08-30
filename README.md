@@ -1,4 +1,4 @@
-## 欢迎来到 风沙    下载地址 [点击下载](https://apps.apple.com/cn/app/风沙/1478371325 "With a Title"). 
+## 欢迎来到 风沙    下载地址 [点击下载](https://apps.apple.com/cn/app/%e9%a3%8e%e6%b2%99/id1478371325 "With a Title"). 
 
 
 
